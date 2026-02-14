@@ -2,6 +2,9 @@
 data/extracted/
 indexes/
 
+# Secrets
+.env
+
 # Python
 __pycache__/
 *.pyc
