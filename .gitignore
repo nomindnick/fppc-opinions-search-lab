@@ -1,0 +1,8 @@
+# Large / reproducible data
+data/extracted/
+indexes/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
